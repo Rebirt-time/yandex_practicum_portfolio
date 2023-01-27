@@ -1,4 +1,4 @@
-<img src="Анализ.png" width=200 align="right"/>
+<img src="analysis.png" width=200 align="right"/>
 
 # Описание проекта - Анализ рынка недвижимости
 
