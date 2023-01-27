@@ -24,8 +24,6 @@
 </a>
 <a href=# target="_blank"><img src="https://img.shields.io/badge/Numpy-B0E0E6?style=for-the-badge&logo=Numpy&logoColor=white"/>
 </a>
-<a href=# target="_blank"><img src="https://img.shields.io/badge/Scipy-191970?style=for-the-badge&logo=Scipy&logoColor=white"/>
-</a>
 <a href=# target="_blank"><img src="https://img.shields.io/badge/Matplotlib-808080?style=for-the-badge&logo=CodeForces&logoColor=white"/>
 </a>
 <a href=# target="_blank"><img src="https://img.shields.io/badge/Seaborn-047DA3?style=for-the-badge&logo=Codeforces&logoColor=white"/>
