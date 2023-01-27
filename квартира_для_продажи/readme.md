@@ -14,6 +14,8 @@
 </a>
 <a href=# target="_blank"><img src="https://img.shields.io/badge/Matplotlib-808080?style=for-the-badge&logo=CodeForces&logoColor=white"/>
 </a>
+<a href=# target="_blank"><img src="https://img.shields.io/badge/Datetime-FFFF00?style=for-the-badge&logo=Datetime&logoColor=white"/>
+</a>
 </div> 
 
 ## Задача
