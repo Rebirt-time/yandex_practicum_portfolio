@@ -1,4 +1,4 @@
-<img src="tables.png" width=150 align="right"/>
+
 
 
 
